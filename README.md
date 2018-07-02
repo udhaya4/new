@@ -1,4 +1,4 @@
 # new
 
-something good will happen!
+something good will happen
 
